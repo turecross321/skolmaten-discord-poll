@@ -6,11 +6,11 @@ const config = {
 
     schoolRequestConfig: {
         headers: {
-            "Client" : "aa",
-            "ClientVersion" : "a"
+            "Client" : "",
+            "ClientVersion" : ""
         }
     },
-    discordToken: "lol",
+    discordToken: "",
     photosFolder: "./photos"
 }
 
